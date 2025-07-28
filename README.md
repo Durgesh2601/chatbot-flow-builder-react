@@ -30,7 +30,7 @@ The Chatbot Flow Builder is a web application designed to create and visualize c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Durgesh2601/chatbot-flow-builder.git
+   git clone https://github.com/Durgesh2601/chatbot-flow-builder-react.git
    ```
 
 2. Install the dependencies:
